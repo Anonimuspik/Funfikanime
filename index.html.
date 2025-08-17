@@ -12,10 +12,12 @@
 <body>
   <h1>Funfikanime</h1>
   <h2>Фароровая Кукла — Серия 1</h2>
+  
   <video controls>
-    <source src="https://drive.google.com/file/d/1D-x8hPV3gUCqwmHMZQePKY6-KMAOT_53/view?usp=drive_link" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=download&id=1D-x8hPV3gUCqwmHMZQePKY6-KMAOT_53" type="video/mp4">
     Ваш браузер не поддерживает видео.
   </video>
-  <p>тут о ебле</p>
+  
+  <p>романтика</p>
 </body>
 </html>
